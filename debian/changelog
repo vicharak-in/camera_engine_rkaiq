@@ -1,3 +1,9 @@
+camera-engine-rkaiq-rk3588 (6.0x6.1-2~noble) noble; urgency=medium
+
+  * add tuning file for the imx708
+
+ -- Joshua Riek <jjriek@verizon.net>  Sun, 23 Jun 2024 11:27:14 -0400
+
 camera-engine-rkaiq-rk3588 (6.0x6.1-1~noble) noble; urgency=medium
 
   * Initial packaging.
