@@ -1,3 +1,9 @@
+camera-engine-rkaiq-rk3588 (6.0x6.1-2~jammy) jammy; urgency=medium
+
+  * Package for jammy
+
+ -- Joshua Riek <jjriek@verizon.net>  Sun, 23 Jun 2024 11:33:03 -0400
+
 camera-engine-rkaiq-rk3588 (6.0x6.1-2~noble) noble; urgency=medium
 
   * add tuning file for the imx708
