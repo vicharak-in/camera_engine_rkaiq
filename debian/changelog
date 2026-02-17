@@ -1,3 +1,9 @@
+camera-engine-rkaiq (6.0x6.1-4~noble) noble; urgency=medium
+
+  * add tuning file for imx519
+
+ -- djkabutar <d.kabutarwala@yahoo.com>  Tue, 17 Feb 2026 14:51:12 +0530
+
 camera-engine-rkaiq-rk3588 (6.0x6.1-3~noble) noble; urgency=medium
 
   * add tuning file for ov13850
