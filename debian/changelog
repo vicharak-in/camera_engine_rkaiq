@@ -1,3 +1,9 @@
+camera-engine-rkaiq (6.0x6.1-5~noble) noble; urgency=medium
+
+  * Add support for 2304x1296@56 resolution to IMX708 tuning file
+
+ -- Shail Parmar <shailparmar26@gmail.com>  Mon, 23 Mar 2026 16:09:23 +0530
+
 camera-engine-rkaiq (6.0x6.1-4~noble) noble; urgency=medium
 
   * add tuning file for imx519
