@@ -1,3 +1,9 @@
+camera-engine-rkaiq (6.0x6.1-6~noble) noble; urgency=medium
+
+  * Add default tuning file for IMX415 (4K and 1080p supported)
+
+ -- Shail Parmar <shailparmar26@gmail.com>  Mon, 30 Mar 2026 11:30:25 +0530
+
 camera-engine-rkaiq (6.0x6.1-5~noble) noble; urgency=medium
 
   * Add support for 2304x1296@56 resolution to IMX708 tuning file
