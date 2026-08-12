@@ -1,0 +1,3 @@
+[submodule "rkisp-tuner-2.x"]
+	path = rkisp-tuner-2.x
+	url = https://github.com/vicharak-in/rkisp-tuner-2.x.git
